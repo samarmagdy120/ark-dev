@@ -1,0 +1,5 @@
+export const GET_BEGIN_DATA = "GET_BEGIN_DATA";
+export const GET_SUCCESS_DATA = "GET_SUCCESS_DATA";
+export const GET_FAILED_DATA = "GET_FAILED_DATA";
+export const SET_ITEM_DATA = "SET_ITEM_DATA";
+export const GET_ITEM_DATA = "GET_ITEM_DATA";
